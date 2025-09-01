@@ -1,4 +1,4 @@
-const apiKey = AIzaSyDu1kO_X32xuvMXAm4hnqcOzR-VUkXkV-U; 
+const apiKey = "AIzaSyDu1kO_X32xuvMXAm4hnqcOzR-VUkXkV-U"; 
 const useProxy = false; // no need for cors-anywhere if key is restricted
 const proxy = "https://cors-anywhere.herokuapp.com/"; // unused
 
