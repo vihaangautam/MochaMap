@@ -1,5 +1,5 @@
 // Your Google Places API key here; keep it safe and restricted to your domain.
-const apiKey = "AIzaSyDu1kO_X32xuvMXAm4hnqcOzR-VUkXkV-U";
+const apiKey = "Your-api-key";
 
 // CORS proxy setup for development to bypass CORS errors with Google Places API
 const useProxy = true;
